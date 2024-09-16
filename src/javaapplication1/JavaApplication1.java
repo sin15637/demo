@@ -16,6 +16,7 @@ public class JavaApplication1 {
     //o
     //show history
     //demo pull
+    //fetch
     public static void main(String[] args) {
         System.out.println("Hello");
     }
